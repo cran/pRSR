@@ -1,0 +1,12 @@
+useDynLib("pRSR")
+
+export(
+"SimulateHReg",
+"FitHReg",
+"GetFitHReg",  
+"pvalrsr",
+"plotrsr",
+"SimulateAR1" )
+import("stats", "utils")
+
+
