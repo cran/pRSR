@@ -23,8 +23,6 @@ LR statistic and
 estimated frequency
 }
 
-\author{M.S. Islam}
-
 \references{
 Islam, M.S. (2008).  
 Peridocity, Change Detection and Prediction in Microarrays. 

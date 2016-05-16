@@ -22,7 +22,6 @@ where z[1] is N(0,1) and a[t] are NID(0, siga),
 \value{
 autocorrelated time series of length n
 }
-\author{M.S. Islam}
 
 \seealso{  \code{\link{FitHReg}}, \code{\link{SimulateHReg}}}
 

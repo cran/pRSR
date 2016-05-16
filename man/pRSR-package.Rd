@@ -15,13 +15,14 @@ short series. Plot for response surface regression for different quantile values
 \tabular{ll}{
 Package: pRSR
 Type: Package
-Title:  Testing periodicity in short time series using response surface regression
-Version: 3.0.1
-Date: 2014-07-10
+Title:  Test of Periodicity using Response Surface Regression
+Version: 3.1.1
+Date: 2016-05-12
 Author: M. S. Islam
 Maintainer: M. S. Islam <shahed-sta@sust.edu>
 Depends: R (>= 2.15.1)
-Description: Test of periodicity in time series using response surface regression.
+Description: Tests periodicity in short time series using response surface regression. Moreover,
+some useful graphs can be produced.
 License: GPL (>= 2)
 LazyLoad: yes
 }

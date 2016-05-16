@@ -28,7 +28,6 @@ F-statistic, residual sd, optimal frequency and LR-test statistic for
 null hypothesis white noise.
 }
 
-\author{M.S. Islam}
 
 \references{
 Islam, M.S. (2008).  

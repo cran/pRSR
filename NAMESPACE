@@ -1,5 +1,5 @@
+importFrom("graphics", "lines", "plot", "points", "text")
 useDynLib("pRSR")
-
 export(
 "SimulateHReg",
 "FitHReg",
@@ -8,5 +8,3 @@ export(
 "plotrsr",
 "SimulateAR1" )
 import("stats", "utils")
-
-

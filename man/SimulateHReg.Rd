@@ -25,8 +25,6 @@ This will simulate harmonic hegression
 vector of length n, simulated harmonic series
 }
 
-\author{M.S. Islam}
-
 
 \seealso{  \code{\link{FitHReg}}}
 \examples{
